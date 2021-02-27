@@ -1,3 +1,10 @@
+## [0.1.2](https://github.com/ljourm/sample-release-it/compare/0.1.1...0.1.2) (2021-02-27)
+
+
+### Bug Fixes
+
+* update .release-it.js ([a2374fa](https://github.com/ljourm/sample-release-it/commit/a2374fac05d82b5c6be5915ad5ba35bf002f3f93))
+
 ## 0.1.1 (2021-02-27)
 
 
